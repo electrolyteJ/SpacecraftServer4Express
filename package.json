@@ -1,0 +1,23 @@
+{
+  "name": "spacecraftserver4express",
+  "version": "1.0.0",
+  "description": "Express Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/electrolyteJ/SpacecraftServer4Express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/electrolyteJ/SpacecraftServer4Express/issues"
+  },
+  "homepage": "https://github.com/electrolyteJ/SpacecraftServer4Express#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ws": "^8.13.0"
+  }
+}
